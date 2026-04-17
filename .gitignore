@@ -1,0 +1,7 @@
+credentials/
+*.pyc
+__pycache__/
+.env
+inbox/
+done/
+brands.json
